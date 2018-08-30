@@ -1,0 +1,22 @@
+{
+  "name": "contrast-ratio",
+  "version": "1.0.0",
+  "description": "A tool to calculate the contrast ratio between any two valid CSS colors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neharkarvishal/contrast-ratio.git"
+  },
+  "author": "Vishal neharkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neharkarvishal/contrast-ratio/issues"
+  },
+  "homepage": "https://github.com/neharkarvishal/contrast-ratio#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
