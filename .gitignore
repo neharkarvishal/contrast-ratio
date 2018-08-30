@@ -16,7 +16,7 @@
 * text=auto
 
 .idea
-
+node_modules
 ## SOURCE CODE
 *.bat      text eol=crlf
 *.coffee   text
