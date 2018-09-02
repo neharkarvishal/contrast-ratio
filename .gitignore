@@ -17,6 +17,7 @@
 
 .idea
 node_modules
+.sass-cache
 ## SOURCE CODE
 *.bat      text eol=crlf
 *.coffee   text
